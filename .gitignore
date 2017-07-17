@@ -1,0 +1,7 @@
+/target
+/resources/public/js/compiled
+/resources/public/css/compiled
+/figwheel_server.log
+/tags
+/node_modules
+/include
